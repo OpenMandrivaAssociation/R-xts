@@ -7,7 +7,7 @@ Release:          2
 Summary:          eXtensible Time Series
 Group:            Sciences/Mathematics
 License:          GPL-2
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/xts_0.9-3.tar.gz
 Requires:         R-zoo 
 Requires:         R-timeSeries R-timeDate R-tseries R-its R-chron R-fts R-tis 
